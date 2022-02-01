@@ -1,0 +1,13 @@
+.d1{
+    background: yellow;
+    box-shadow: 5px 5px red;
+    height: 50%;
+    width: 50%;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-size: cover;
+}
